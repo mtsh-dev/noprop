@@ -1,5 +1,4 @@
-# noprop
-noprop fivem script
+# nopro
 
 ```console
 noprop fivem script
